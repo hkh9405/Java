@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<복권판매업소현황>
+  <row>
+    <CMPNM_NM>상호명</CMPNM_NM>
+    <LOCPLC_ADDR>소재지주소</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>땡큐25(철산점)</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 철산동 264번지 로데오빌딩103호</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>LG슈퍼</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 철산동 163번지</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>돈방석</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 158-468</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>까까복권</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 일직동 500 102-1호</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>철산중앙로또점</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 철산동 245-4 1층 2-1호</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>사랑로또</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 일직동 510-8</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>번영복권방</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 57-11</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>바로전산</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 158-1015번지 101호</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>싱글벙글할인마트</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 276-44번지 금반석씨티빌상가102</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>GS25(광명녹원점)</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 하안동 302번지 녹원프라자106호</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>GS25(하안연서점)</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 하안동 30-1</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>노다지복권방</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 하안동 34-10번지 원촌빌딩1층</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>복권마을</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 348-20번지 1층</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>위드미로또</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 하안동 33-1</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>경인유통</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 12-7번지</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>바이올(철산점)</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 철산동 394</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>코사</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 철산동 617</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>코리아마트</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 하안동 598-11번지</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>에이스슈퍼</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 126-26번지</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>로또복권</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 하안동 260-2번지 8단지종합상가공유지</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>명동슈퍼</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 철산동 426번지</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>가판점</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 하안동 51번지</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>로또세계주류</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 철산동 464-7</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>복권천하</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 374-10번지</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>로토피아</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 소하동 932-4번지 상가1층102호</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>대박로또방</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 158-789번지 1층편의점</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>대박DREAM</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 139-15</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>로또명당</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 739-11번지 상가2호</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>일등복권방</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 철산동 480번지 1층3호</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>행복플러스</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 소하동 1365</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>잉크와복권</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 철산동 157-2번지</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>복권명당</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 334-29</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>복권천국</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 소하동 1241번지</LOCPLC_ADDR>
+  </row>
+  <row>
+    <CMPNM_NM>SoundWave</CMPNM_NM>
+    <LOCPLC_ADDR>경기 광명시 광명동 150-7번지</LOCPLC_ADDR>
+  </row>
+</복권판매업소현황>
+
